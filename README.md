@@ -10,7 +10,7 @@
 - Operando na Dark Web
 
 > Concluindo esses Desafios é possível receber um certificado **GRATIS** chamado **Blue Team Junior Analyst Trainning Carrer Path** além de melhorar habilidades na área do Time Azul ou Blue Team.
-### Nessa Plataforma possuem cursos TOTALMENTE GRATUITOS como: 🔦
+### Nessa Plataforma possuem cursos TOTALMENTE GRATUITOS como: 
 - Introdução ao PowerShell
 - Introdução ao Bash
 - Introdução ao Python
