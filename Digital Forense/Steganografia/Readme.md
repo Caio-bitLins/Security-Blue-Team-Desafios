@@ -21,6 +21,18 @@
 ![image](https://github.com/user-attachments/assets/1673611c-db41-403b-96e8-9f035f5e58af)
 ![image](https://github.com/user-attachments/assets/531d1d3c-748e-4c3f-97df-cb5b4895c57f)
 
-# Respostas do Quiz
+### Respostas do Quiz
 
-**1.
+**1. Incorpore o arquivo 'secretmessage.txt' dentro do arquivo de capa 'coverfile.jpg' e nomeie o stegofile de saída como 'hiddenmessage.jpg'. Qual é o comando completo que você usaria para fazer isso?**
+>steghide embed -ef secretmessage.txt -cf coverfile.jpg -sf hiddenmessage.jpg
+
+**2. O sinalizador 1 está oculto dentro de um arquivo de texto em um dos arquivos de esteganografia. Qual é o valor?**
+>kAN105KS
+
+**3. O sinalizador 2 está oculto dentro de um arquivo de texto em um dos arquivos de esteganografia. Qual é o valor?**
+>001JDANL
+
+**4. A bandeira 3 está oculta dentro de um arquivo de texto em um dos arquivos de esteganografia. Qual é o valor?**
+>1LRBA9IU
+
+
