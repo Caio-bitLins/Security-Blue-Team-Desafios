@@ -32,5 +32,20 @@ que teve como resultado ***J201AKKLO.***
 
 # Respostas do QUIZ
 
+**1. Qual é a senha de trabalho para desbloquear BruteForceAttack.zip?**
+>a1b3c5
+
+**2. Qual é a senha de trabalho para desbloquear DictionaryAttack.zip?**
+>FRIENDSHIPSTARS
+
+**3. Qual é a string de texto dentro de FLAG1.txt?**
+>J201AKKLO
+
+**4. Qual é a string de texto dentro do FLAG2.txt?**
+>91MD0QL11
+
+
+
+
 
 
