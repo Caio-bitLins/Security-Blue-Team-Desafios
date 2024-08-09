@@ -39,5 +39,28 @@ cracking de palavras-passe.
 
 2. Navegando até **Images** usei o comando ***steghide extract -sf laptop.jpg*** para extrair informações dentro do arquivo
 e usei **cat** para ler os *passwords*
+
 ![image](https://github.com/user-attachments/assets/3f3e0f8c-4bcd-42a7-ad78-30425ffc8dbc)
 
+## Evidência 3
+1. Ao navegar pelos diretórios, encontrei um arquivo interessante no diretório da Week10. À primeira vista, parecia ser um arquivo **.xml,** mas quando executei o comando |file *|, descobri que a extensão do arquivo estava errada. ***É um arquivo PNG!***
+
+![image](https://github.com/user-attachments/assets/34e60788-b580-47c0-af5d-449806182e3d)
+
+2. Usando o comando ***mv posidon.xml posidon.png*** para alterar a extensão de **.xml** para **.png.**
+![image](https://github.com/user-attachments/assets/5d3224dc-57a3-40c4-b343-8928329f7ca7)
+
+3. Abrindo o arquivo png, da para visualizar os localização dos escritórios.
+
+![image](https://github.com/user-attachments/assets/72c94d51-8d91-4f75-91a9-44c1b84431d8)
+
+## Evidência 4
+
+1. Naveguei pelos diretórios e encontrei um arquivo suspeito no diretório **/WebDev work/unfinished webpages/templatemo_508_power/css.** Parecia fora do lugar ***- bootstrap.min.abc.*** Normalmente, os arquivos CSS são usados ​​para estilizar sites e possuem a extensão ***.css.***
+
+![image](https://github.com/user-attachments/assets/51d1458a-400a-4392-a7c9-c0331614171e)
+![image](https://github.com/user-attachments/assets/db846224-2315-4c0a-a6f9-f1fc83d05a48)
+
+2. Dentro do diretório ***css,*** use o comando cat bootstrap.min.abc para exibir o conteúdo do arquivo. Foi descoberto que as informações de Colin vazaram.
+
+![image](https://github.com/user-attachments/assets/a04b8314-7f57-4de3-afc0-ad6852c1f851)
