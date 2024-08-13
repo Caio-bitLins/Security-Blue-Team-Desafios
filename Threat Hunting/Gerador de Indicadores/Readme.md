@@ -100,10 +100,11 @@
 ## Questões adicionais
 1. In IOCe, when trying to add new IOC values, what is the first property available under the Network heading? (Similar to how we selected FileItem properties)
 >Network DNS
+
 2.In IOCe, there are option to add values from email, Snort, and Task Items, true or false?
 >True
+
 3. What does IOC stand for?
-4. Which of the following are examples of IOCs? (Choose any that apply)
-
-
-5.
+>Indicators of Compromise
+5. Which of the following are examples of IOCs? (Choose any that apply)
+>Email Sending Address, IP Address, File Hash, String, Website URL
