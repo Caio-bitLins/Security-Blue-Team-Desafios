@@ -76,16 +76,34 @@
 5. Qual é o valor de hash SHA1 deste arquivo **2innocent.pdf**?
 >90ffd2359008d82298821d16b21778c5c39aec36.
 6. Qual é o valor de hash MD5 deste arquivo **2innocent.pdf**?
->13264 bytes
+> 2942bfabb3d05332b66eb128e0842cff.
 7. Qual é o tamanho do arquivo (em bytes, sem separadores como “,”) deste arquivo **2innocent.pdf**?
->2innocent.pdf.
+>13264.
 8. Qual é o nome completo do arquivo (e extensão) deste arquivo **2innocent.pdf**?
->0ecd0e0a47d3a2a9e9a9c835994963f8f20ae191.
+>2innocent.pdf.
 9. Qual é o valor de hash SHA1 deste arquivo **3Stock-Image-PANIC.jpg**?
+>0ecd0e0a47d3a2a9e9a9c835994963f8f20ae191.
+10. Qual é o valor de hash MD5 deste arquivo **3Stock-Image-PANIC.jpg**?
 >3136fe5f1e43d07e8b509bbf710f5f31.
-10. Qual é o tamanho do arquivo (em bytes, sem separadores como “,”) deste arquivo **3Stock-Image-PANIC.jpg**?
->1066208 bytes.
-11. Qual é o nome completo do arquivo (e extensão) deste arquivo **3Stock-Image-PANIC.jpg**?
+11. Qual é o tamanho do arquivo (em bytes, sem separadores como “,”) deste arquivo **3Stock-Image-PANIC.jpg**?
 >1066208 bytes.
 12. Qual é o tamanho do arquivo (em bytes, sem separadores como “,”) deste arquivo **3Stock-Image-PANIC.jpg**?
 >3Stock-Image-PANIC.jpg.
+13. Qual é o valor de hash SHA1 deste arquivo **4sales report july 2019.pdf**?
+>bc371bb75b9cbbec7819292bc3a380df913111be
+14. Qual é o valor de hash MD5 deste arquivo **4sales report july 2019.pdf**?
+>daa5ffbcc4f371070fb8b17e87b747e6
+15. Qual é o tamanho do arquivo (em bytes, sem separadores como “,”) deste arquivo **4sales report july 2019.pdf**?
+>43002
+16. Qual é o nome completo do arquivo (e extensão) deste arquivo **4sales report july 2019.pdf**?  
+> 4sales report july 2019.pdf
+## Questões adicionais
+1. In IOCe, when trying to add new IOC values, what is the first property available under the Network heading? (Similar to how we selected FileItem properties)
+>Network DNS
+2.In IOCe, there are option to add values from email, Snort, and Task Items, true or false?
+>True
+3. What does IOC stand for?
+4. Which of the following are examples of IOCs? (Choose any that apply)
+
+
+5.
